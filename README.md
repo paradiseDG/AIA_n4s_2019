@@ -5,3 +5,6 @@ In this project, you need to create your own autonomous car. It must be capableo
 3. Start V-REP (the Coppelia simulator). You can also use the command "$ ./vrep.sh"
 4. Load a scene.
 5. Run the scene or use command "$ ./pipes.sh"
+
+Grade : 100
+All tests passed, no fails (check screenshot in repo)
